@@ -1,0 +1,13 @@
+settings:
+  username: "ahmaddyd"
+  commit_msg: "۶Recent Activity Updated🔥٩(̾●̮̮̃̾•̃̾)۶"
+  max_lines: 0
+  readme_file: "./README.md"
+  disabled_events: [event1, event2, event3]
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT+07:00"
+    text: "<i>Last Update</i> : <b>{DATE}</b>"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  commit_name: "ahmaddyd-bot"
+  commit_email: "81952585+ahmaddyd@users.noreply.github.com"
