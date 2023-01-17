@@ -1,7 +1,7 @@
 settings:
   readme_file: "./README.md"
   commit_msg: "۶👾Recent Activity Updated🔥٩"
-  max_lines: 10
+  max_lines: 5
   commit_username: "ahmaddyd"
   commit_email: "ahmdyulian.86@gmail.com"
   disabled_events: [event1, event2, event3]
@@ -10,18 +10,3 @@ settings:
     timezone: "GMT+07:00"
     text: "<i>Last Update</i> : <b>{DATE}</b>"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-messages:
-  comments: "![comment] Commented on {ID} in {REPO}"
-  issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
-  issue_closed: "![issueClosed] Closed issue {ID} in {REPO}"
-  pr_opened: "![pullrequestopened] Opened PR {ID} in {REPO}"
-  pr_closed: "![pullrequestclosed] Closed PR {ID} in {REPO}"
-  pr_merged: "![pullrequestmerged] Merged PR {ID} in {REPO}"
-  create_repo: "![repoCreated] Created new repository {REPO}"
-  fork_repo: "![fork] Forked {FORK} from {REPO}"
-  wiki_create: "![wiki] Created new wiki page {WIKI} in {REPO}"
-  changes_approved: "![approved] Approved {ID} in {REPO}"
-  changes_requested: "![changesRequested] Requested {AMOUNT} change(s) for {ID} in {REPO}"
-  new_release: "![release] Released {ID} in {REPO}"
-  new_star: "![star] Starred {REPO}"
-  added_member: "![people] Became collaborator on {REPO}"
