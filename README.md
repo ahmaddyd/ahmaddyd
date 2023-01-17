@@ -1,20 +1,20 @@
 <h3 align="right">Activity Session</h3>
 <p align="right"> 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-2. ![comment] Commented on [#248](https://github.com/Readme-Workflows/recent-activity/issues/248#issuecomment-1385545123) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-4. ![comment] Commented on [#248](https://github.com/Readme-Workflows/recent-activity/issues/248#issuecomment-1385433208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/CRUD](https://github.com/ahmaddyd/CRUD)<br>
+1. 💬 Commented on [#248](https://github.com/Readme-Workflows/recent-activity/issues/248#issuecomment-1385585358) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+3. 💬 Commented on [#248](https://github.com/Readme-Workflows/recent-activity/issues/248#issuecomment-1385545123) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+5. 💬 Commented on [#248](https://github.com/Readme-Workflows/recent-activity/issues/248#issuecomment-1385433208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 6. ⬆️ Pushed 1 commit(s) to [ahmaddyd/CRUD](https://github.com/ahmaddyd/CRUD)<br>
-7. ![repoCreated] Created new repository [ahmaddyd/CRUD](https://github.com/ahmaddyd/CRUD)<br>
-8. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-9. ![fork] Forked [ahmaddyd/abhijoshi2k](https://github.com/ahmaddyd/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)<br>
-10. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+7. ⬆️ Pushed 1 commit(s) to [ahmaddyd/CRUD](https://github.com/ahmaddyd/CRUD)<br>
+8. 📔 Created new repository [ahmaddyd/CRUD](https://github.com/ahmaddyd/CRUD)<br>
+9. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+10. 🔱 Forked [ahmaddyd/abhijoshi2k](https://github.com/ahmaddyd/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Tuesday, January 17th, 2023, 10:16:29 PM</b>
+<i>Last Update</i> : <b>Tuesday, January 17th, 2023, 10:21:34 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Header -->
