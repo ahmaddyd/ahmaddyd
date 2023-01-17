@@ -39,8 +39,9 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools <img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 50px></h3>
-<p align="center"> 
+<details>
+  <summary>Languages and Tools<img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 50px></summary>
+<p align="left"> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/></a> 
@@ -59,6 +60,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/XD.svg" alt="xd" width="40" height="40"/></a> 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="raspberry" width="40" height="40"/></a> 
 </p>
+</details>
 
 <!-- Line -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-js" width="100%"/>
