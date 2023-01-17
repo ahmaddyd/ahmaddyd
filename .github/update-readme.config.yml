@@ -3,7 +3,7 @@ settings:
   #commit_msg: "۶Recent Activity Updated🔥٩(̾●̮̮̃̾•̃̾)۶"
   max_lines: 10
   commit_name: "ahmaddyd"
-  commit_email: "81952585+ahmaddyd@users.noreply.github.com"
+  commit_email: "ahmdyulian.86@gmail.com"
   disabled_events: [event1, event2, event3]
   url_text: "{REPO}{ID}"
   date:
