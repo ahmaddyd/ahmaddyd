@@ -1,8 +1,8 @@
 settings:
   readme_file: "./README.md"
-  #commit_msg: "۶Recent Activity Updated🔥٩(̾●̮̮̃̾•̃̾)۶"
+  commit_msg: "۶Recent Activity Updated🔥٩(̾●̮̮̃̾•̃̾)۶"
   max_lines: 10
-  commit_name: "ahmaddyd"
+  commit_username: "ahmaddyd"
   commit_email: "ahmdyulian.86@gmail.com"
   disabled_events: [event1, event2, event3]
   url_text: "{REPO}{ID}"
