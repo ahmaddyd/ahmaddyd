@@ -30,8 +30,8 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-<!-- Connect -->
-<h4 align="left">Connect with me <img src = "https://media.giphy.com/media/dAKo7JMzOGnOpXC7WY/giphy.gif" width = 150px></h4>
+<!-- Languages and Tools -->
+<h4 align="left">Languages and Tools <img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 50px></h4>
 <p align="left"> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
