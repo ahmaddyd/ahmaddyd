@@ -82,7 +82,6 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <img src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Footer.svg" width="100%">
 
 <!--RECENT_ACTIVITY:start-->
-1. <br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 **ahmaddyd/ahmaddyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
