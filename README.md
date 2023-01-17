@@ -38,9 +38,6 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <a href="https://www.hackerrank.com/ahmaddyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmaddyd" height="48" width="48" /></a>
 </p>
 
-<!-- Line -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-js" width="100%"/>
-
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools <img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 50px></h3>
 <p align="center"> 
@@ -64,7 +61,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 </p>
 
 <!-- Line -->
-<img src="https://media.giphy.com/media/4ySEYI87Py6YaUN69D/giphy.gif" height="20" width="100%">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-js" width="100%"/>
 
 <!-- GitHub Statistics -->
 <h3 align="center">GitHub Statistics <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px></h3>
@@ -80,6 +77,9 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <br>
   <!--RECENT_ACTIVITY:start-->
 </details>
+  
+<!-- Line -->
+<img src="https://media.giphy.com/media/4ySEYI87Py6YaUN69D/giphy.gif" height="20" width="100%">  
 
 <!-- Footer -->
 <p align="center">
