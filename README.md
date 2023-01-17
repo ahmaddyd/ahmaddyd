@@ -1,6 +1,6 @@
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Tuesday, January 17th, 2023, 11:07:36 PM</b>
+<i>Last Update</i> : <b>Tuesday, January 17th, 2023, 11:30:38 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
@@ -57,7 +57,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <summary>Activity Session🥷</summary>
   <br>
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+1. ![star] Starred [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
 2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
 3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
 4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
@@ -65,8 +65,8 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 6. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
 7. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
 8. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-9. ✔️ Closed issue [#248](https://github.com/Readme-Workflows/recent-activity/issues/248) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-10. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+9. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+10. ![issueClosed] Closed issue [#248](https://github.com/Readme-Workflows/recent-activity/issues/248) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
