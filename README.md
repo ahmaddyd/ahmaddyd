@@ -74,28 +74,17 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <!-- Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- Footer -->
-<p align="center">
-<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width="150"><img src="https://media.giphy.com/media/nvKjkfWIl2msw/giphy.gif" width="150"><img src="https://media.giphy.com/media/26n79OaNx8sClwFby/giphy.gif" width="150"><img src="https://media.giphy.com/media/4NWT0Ry3dtTLW/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/26gs8x1hNntun15mM/giphy.gif" width="150">
-<img src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Footer.svg" width="100%">
-
 <!-- Activity Session -->
 <details>
   <summary>Activity Session🥷</summary>
   <br>
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-3. ✔️ Closed issue [#248](https://github.com/Readme-Workflows/recent-activity/issues/248) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-6. ⬆️ Pushed 2 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-7. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-8. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-9. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-10. 💬 Commented on [#248](https://github.com/Readme-Workflows/recent-activity/issues/248#issuecomment-1385585358) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-<!--RECENT_ACTIVITY:end-->
 </details>
+
+<!-- Footer -->
+<p align="center">
+<img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width="150"><img src="https://media.giphy.com/media/nvKjkfWIl2msw/giphy.gif" width="150"><img src="https://media.giphy.com/media/26n79OaNx8sClwFby/giphy.gif" width="150"><img src="https://media.giphy.com/media/4NWT0Ry3dtTLW/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/26gs8x1hNntun15mM/giphy.gif" width="150">
+<img src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Footer.svg" width="100%">
 
 <!--
 **ahmaddyd/ahmaddyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
