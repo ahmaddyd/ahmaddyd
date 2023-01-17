@@ -1,9 +1,5 @@
-<h3 align="right">Activity Session</h3>
-
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Tuesday, January 17th, 2023, 10:35:29 PM</b>
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
 
@@ -81,8 +77,13 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width="150"><img src="https://media.giphy.com/media/nvKjkfWIl2msw/giphy.gif" width="150"><img src="https://media.giphy.com/media/26n79OaNx8sClwFby/giphy.gif" width="150"><img src="https://media.giphy.com/media/4NWT0Ry3dtTLW/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/26gs8x1hNntun15mM/giphy.gif" width="150">
 <img src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Footer.svg" width="100%">
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!-- Activity Session -->
+<details>
+  <summary>Activity Session🥷</summary>
+  <br>
+  <!--RECENT_ACTIVITY:start-->
+</details>
+
 <!--
 **ahmaddyd/ahmaddyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
