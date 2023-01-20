@@ -4,20 +4,17 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
-
 <div align="center">
   <img width="100%" src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Ahmad%20Yulian%20Dinata%20-%20Background.png" alt="cover" />
 </div>
 
 <!-- Header -->
-
 # Heyy!👋, I'm [Ahmad Yulian Dinata](https://bit.ly/PORTFOLIOAhmadYulian)
 
 <h3 align="justify">Hands-on work experience and a keen interest in Android Development, Front-End Web Developer, 
 Odoo Dev (Odoo 10 & Odoo 14).</h3>
 
 <!-- Description -->
-
 - 🔭 I’m previously working on **Software Programmer at PT Hashmicro Solusi Indonesia and Android Developer at PT Presentologics**
 - 🌼 I’m currently learning **Frameworks, Courses**
 - 💻 IDE Technology: [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
@@ -27,11 +24,9 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 - ⚡ Fun fact **I am Falling in Love with Program** 😄
 
 <!-- Badges Built With Love -->
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <!-- Languages and Tools -->
-
 <h4 align="left">Languages and Tools <img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 50px></h4>
 <p align="left"> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -67,26 +62,21 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 </details>
 
 <!-- Line -->
-
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-js" width="100%"/>
 
 <!-- GitHub Statistics -->
-
 <p align="center">
-<img src="https://imgur.com/x0jOCUY.gif"><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px>
+<img src="https://imgur.com/x0jOCUY.gif">
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ahmaddyd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   
 <!-- Profile 3D GitHub -->
-  
 ![svg](https://raw.githubusercontent.com/ahmaddyd/ahmaddyd/master/profile-3d-contrib/profile-night-view.svg)
 
 <!-- Line -->
-  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!-- Connect -->
-  
 <h3 align="left">Connect with me <img src = "https://media.giphy.com/media/dAKo7JMzOGnOpXC7WY/giphy.gif" width = 150px></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmaddyd"><img align="center" src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="48" width="48"/></a>
@@ -95,7 +85,6 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 </p>
 
 <!-- Footer -->
-
 <p align="center">
 <img src="https://media.giphy.com/media/3ohhwExYXg3q8oC26Q/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/4NWT0Ry3dtTLW/giphy.gif" width="75">
 <img src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Footer.svg" width="100%">
