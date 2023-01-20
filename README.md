@@ -69,13 +69,12 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-js" width="100%"/>
 
 <!-- GitHub Statistics -->
-<h3 align="center">GitHub Statistics <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px></h3>
+<img src="https://imgur.com/JPBK6iZ.gif" height="30" width="150"><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ahmaddyd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   
 <!-- Profile 3D GitHub -->
 ![svg](https://raw.githubusercontent.com/ahmaddyd/ahmaddyd/master/profile-3d-contrib/profile-night-view.svg)
-
 
 <!-- Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
