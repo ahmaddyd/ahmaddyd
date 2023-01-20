@@ -1,0 +1,24 @@
+name: Update QUOTE
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: siddharth2016/quote-readme@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name ahmaddyd
+          git config user.email ahmdyulian.86@gmail.com
+          git add -A .
+          git commit -m "۶👾Automation Quote Updated🔥٩"
+          git push
