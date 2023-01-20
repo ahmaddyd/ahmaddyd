@@ -26,6 +26,31 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 - 📫 How to reach me **ahmdyulian.86@gmail.com**
 - ⚡ Fun fact **I am Falling in Love with Program** 😄
 
+</td><td valign="top" width="50%">
+
+  #### 🌏 Something about me
+  <!-- profile starts -->
+  ```kotlin
+  data class ahmaddyd(
+       val panggilan: String = "Amad|Yulian",
+       val tentangSaya = listOf(
+         "Ramah", "Pecinta Kucing",
+         "Suka Membantu", "Selalu Ada", "Bahagia Selalu"
+       )
+       val halBaru = {
+         "Frameworks" to "React dan NodeJS",
+         "Lovely" to "Fun"
+       }
+       (0..end).reduce { acc, new ->
+          pelatihan(new)
+          pembelajaran(new)
+          jumlah(acc) + bersenangSenang(new)
+       }
+  )
+  ```
+  <!-- profile ends -->
+  </td></tr><tr><td valign="top" width="50%">
+
 <!-- Badges Built With Love -->
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
