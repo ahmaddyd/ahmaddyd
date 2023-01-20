@@ -2,7 +2,7 @@ name: Profile 3D GitHub
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 */18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -20,5 +20,5 @@ jobs:
           git config user.name ahmaddyd
           git config user.email ahmdyulian.86@gmail.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "۶👾Profile 3D GitHub Updated🔥٩"
           git push
