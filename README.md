@@ -81,7 +81,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
 <!-- Connect -->
-<img src = "https://imgur.com/mUe0OUT.gif"><img src = "https://media.giphy.com/media/dAKo7JMzOGnOpXC7WY/giphy.gif" width = 150px>
+<h3 align="left">Connect with me <img src = "https://media.giphy.com/media/dAKo7JMzOGnOpXC7WY/giphy.gif" width = 150px></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmaddyd"><img align="center" src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="48" width="48"/></a>
   <a href="https://instagram.com/ahmaddyd" target="blank"><img align="center" src="https://github.com/ahmaddyd/skill-icons/blob/main/icons/Instagram.svg" alt="ahmaddyd" height="48" width="48" /></a>
