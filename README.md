@@ -26,6 +26,13 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <!-- Badges Built With Love -->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+<!-- Table -->
+<table width="960px"><tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+</td></tr><tr><td valign="top" width="50%">
+
 <!-- Languages and Tools -->
 <h4 align="left">Languages and Tools <img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 50px></h4>
 <p align="left"> 
