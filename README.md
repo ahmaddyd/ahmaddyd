@@ -30,6 +30,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <table width="960px"><tr><td valign="top" width="50%">
 </td><td valign="top" width="50%">
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </td></tr><tr><td valign="top" width="50%">
 
