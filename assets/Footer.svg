@@ -22,47 +22,47 @@ svg {
 }
 @keyframes wave {
   0% {
-        fill: #FF0000 ;
+        fill: #7286D3 ;
         transform: translateX(-0%);
       }
   10% {
-        fill: #FF8700 ;
+        fill: #8EA7E9 ;
         transform: translateX(-10%);
       }
   20% {
-        fill: #FFD300 ;
+        fill: #0081B4 ;
         transform: translateX(-20%);
       }
   30% {
-        fill: #DEFF0A ;
+        fill: #0081C9 ;
         transform: translateX(-30%);
       }
   40% {
-        fill: #A1FF0A ;
+        fill: #5BC0F8 ;
         transform: translateX(-40%);
       }
   50% {
-        fill: #0AFF99 ;
+        fill: #3C79F5 ;
         transform: translateX(-50%);
       }
   60% {
-        fill: #0AEFFF ;
+        fill: #2DCDDF ;
         transform: translateX(-60%);
       }
   70% {
-        fill: #147DF5 ;
+        fill: #579BB1 ;
         transform: translateX(-70%);
       }
   80%{
-        fill: #580AFF ;
+        fill: #0A2647 ;
         transform: translateX(-80%);
       }
   90%{
-        fill: #BE0AFF;
+        fill: #144272;
         transform: translateX(-90%);
       }
   100%{
-        fill: #FF0000 ;
+        fill: #205295 ;
         transform: translateX(-100%);
       }
     }
