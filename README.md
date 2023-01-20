@@ -26,14 +26,14 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <!-- Badges Built With Love -->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-<!-- Table -->
-<table width="960px"><tr><td valign="top" width="50%">
+<!-- Quote -->
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
+<!-- Table -->
+<table width="960px"><tr><td valign="top" width="50%">
 <!-- Languages and Tools -->
 <h4 align="left">Languages and Tools <img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 50px></h4>
 <p align="left"> 
