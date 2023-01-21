@@ -1,6 +1,6 @@
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Saturday, January 21st, 2023, 8:13:53 AM</b>
+<i>Last Update</i> : <b>Saturday, January 21st, 2023, 9:24:43 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
@@ -62,11 +62,11 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <summary>Activity Session🥷</summary>
   <br>
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+1. ⭐ Starred [ahmaddyd/EduCovid](https://github.com/ahmaddyd/EduCovid)<br>
+2. ⭐ Starred [ahmaddyd/Destinasi-Wisata](https://github.com/ahmaddyd/Destinasi-Wisata)<br>
+3. ⭐ Starred [ahmaddyd/Site-Packages-Python-2.7](https://github.com/ahmaddyd/Site-Packages-Python-2.7)<br>
+4. ⭐ Starred [ahmaddyd/Site-Packages-Python-3.6](https://github.com/ahmaddyd/Site-Packages-Python-3.6)<br>
+5. ⭐ Starred [ahmaddyd/Memulai-Pemrograman-dengan-Kotlin](https://github.com/ahmaddyd/Memulai-Pemrograman-dengan-Kotlin)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
