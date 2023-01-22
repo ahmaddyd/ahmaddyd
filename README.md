@@ -1,6 +1,6 @@
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Sunday, January 22nd, 2023, 11:30:42 AM</b>
+<i>Last Update</i> : <b>Sunday, January 22nd, 2023, 11:43:32 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
@@ -62,11 +62,11 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <summary>Activity Session🥷</summary>
   <br>
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
-2. ⬆️ Pushed 2 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+1. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+2. 📔 Created new repository [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+3. ⬆️ Pushed 2 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
 4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
-5. 📔 Created new repository [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
