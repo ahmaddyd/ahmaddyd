@@ -1,6 +1,6 @@
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Sunday, January 22nd, 2023, 9:58:33 AM</b>
+<i>Last Update</i> : <b>Sunday, January 22nd, 2023, 10:23:02 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
@@ -62,11 +62,11 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <summary>Activity Session🥷</summary>
   <br>
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-4. ⭐ Starred [ahmaddyd/EduCovid](https://github.com/ahmaddyd/EduCovid)<br>
-5. ⭐ Starred [ahmaddyd/Destinasi-Wisata](https://github.com/ahmaddyd/Destinasi-Wisata)<br>
+1. 📔 Created new repository [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+3. 📔 Created new repository [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
