@@ -1,6 +1,6 @@
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Monday, January 23rd, 2023, 7:27:16 PM</b>
+<i>Last Update</i> : <b>Monday, January 23rd, 2023, 8:00:18 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
@@ -64,8 +64,8 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
   <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
 2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
-4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
+4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
 5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/Portfolio](https://github.com/ahmaddyd/Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
