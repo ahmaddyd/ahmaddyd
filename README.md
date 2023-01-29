@@ -30,7 +30,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.❞</i>
+<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
