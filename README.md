@@ -30,7 +30,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
+<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
