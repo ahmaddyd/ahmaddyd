@@ -30,7 +30,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
+<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
