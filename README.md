@@ -15,6 +15,7 @@
 Odoo Dev (Odoo 10 & Odoo 14).</h3>
 
 <!-- Description -->
+- 💕 I’m work on **Software Engineer at Perum Perumnas**
 - 👑 I’m previously working on **Software Programmer at PT Hashmicro Solusi Indonesia and Android Developer at PT Presentologics**
 - 🌼 I’m currently learning **Frameworks, Courses**
 - 💻 IDE Technology: [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
