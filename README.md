@@ -31,7 +31,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
+<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
