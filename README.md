@@ -31,7 +31,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
+<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
