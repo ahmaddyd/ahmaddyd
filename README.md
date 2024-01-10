@@ -31,7 +31,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
+<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
