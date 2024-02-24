@@ -31,7 +31,7 @@ Odoo Dev (Odoo 10 & Odoo 14).</h3>
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
