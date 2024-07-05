@@ -15,7 +15,7 @@
 
 <!-- Description -->
 - 💕 I’m work on **Information Technology x Human Resource at Perum Perumnas**
-- 👑 I’m previously internship on **Software Programmer at PT Hashmicro Solusi Indonesia** and Part Of **Studi Independen Bersertifikat (SIB) Android Developer at PT Presentologics**
+- 👑 I’m previously internship on **Software Programmer at PT Hashmicro Solusi Indonesia** and part of **Studi Independen Bersertifikat (SIB) Android Developer at PT Presentologics**
 - 🌼 I’m currently learning **Frameworks, Courses, Soft Skills**
 - 💻 IDE Technology: [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmaddyd)
