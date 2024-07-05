@@ -11,18 +11,17 @@
 <!-- Header -->
 # Heyy!👋, I'm [Ahmad Yulian Dinata](https://bit.ly/PORTFOLIOAhmadYulian)
 
-<h3 align="justify">Hands-on work experience and a keen interest in Android Development, Front-End Web Developer, 
-Odoo Dev (Odoo 10 & Odoo 14).</h3>
+<h3 align="justify">Human Capital Information System Specialist.</h3>
 
 <!-- Description -->
-- 💕 I’m work on **Software Engineer at Perum Perumnas**
-- 👑 I’m previously working on **Software Programmer at PT Hashmicro Solusi Indonesia and Android Developer at PT Presentologics**
-- 🌼 I’m currently learning **Frameworks, Courses**
+- 💕 I’m work on **Information Technology x Human Resource at Perum Perumnas**
+- 👑 I’m previously internship on **Software Programmer at PT Hashmicro Solusi Indonesia** and Part Of **Studi Independen Bersertifikat (SIB) Android Developer at PT Presentologics**
+- 🌼 I’m currently learning **Frameworks, Courses, Soft Skills**
 - 💻 IDE Technology: [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmaddyd)
-- 🤖 Ask me about **Odoo Dev, Python**
+- 🤖 Ask me about **CodeIgniter, PHP Framework, UI Design, Python**
 - 📫 How to reach me **ahmdyulian.86@gmail.com**
-- ⚡ Fun fact **I am Falling in Love with Program** 😄
+- ⚡ Fun fact **I enjoy the sound of rain in the midst of a melancholy night.** 🎶😄
 
 <!-- Badges Built With Love -->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
