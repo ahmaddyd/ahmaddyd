@@ -5,7 +5,7 @@
 
 <!-- Cover Bg -->
 <div align="center">
-  <img width="100%" src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Ahmad%20Yulian%20Dinata%20-%20Background.png" alt="cover" />
+<!--   <img width="100%" src="https://github.com/ahmaddyd/ahmaddyd/blob/master/assets/Ahmad%20Yulian%20Dinata%20-%20Background.png" alt="cover" /> -->
 </div>
 
 <!-- Header -->
