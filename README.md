@@ -1,6 +1,6 @@
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last Update</i> : <b>Monday, July 8th, 2024, 2:59:51 PM</b>
+<i>Last Update</i> : <b>Monday, July 8th, 2024, 3:27:23 PM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Cover Bg -->
@@ -66,7 +66,7 @@
 2. ⬆️ Pushed 1 commit(s) to [ahmaddyd/portfolio-ahmadyd](https://github.com/ahmaddyd/portfolio-ahmadyd)<br>
 3. ⬆️ Pushed 1 commit(s) to [ahmaddyd/portfolio-ahmadyd](https://github.com/ahmaddyd/portfolio-ahmadyd)<br>
 4. ⬆️ Pushed 1 commit(s) to [ahmaddyd/portfolio-ahmadyd](https://github.com/ahmaddyd/portfolio-ahmadyd)<br>
-5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/ahmaddyd](https://github.com/ahmaddyd/ahmaddyd)<br>
+5. ⬆️ Pushed 1 commit(s) to [ahmaddyd/portfolio-ahmadyd](https://github.com/ahmaddyd/portfolio-ahmadyd)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
