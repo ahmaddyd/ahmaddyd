@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
+<i>❝“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
