@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
+<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
