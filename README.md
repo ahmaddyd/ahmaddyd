@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.❞</i>
+<i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
