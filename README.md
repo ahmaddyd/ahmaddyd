@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
+<i>❝“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
