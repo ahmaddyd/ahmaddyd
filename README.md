@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
+<i>❝“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
