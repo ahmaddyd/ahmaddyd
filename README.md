@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
+<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
