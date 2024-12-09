@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
+<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
