@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
+<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
