@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
+<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
