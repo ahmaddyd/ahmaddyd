@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<i>❝“Being able to break security doesn’t make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.”— Eric Raymond   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
