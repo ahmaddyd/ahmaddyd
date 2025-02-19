@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood❞</i>
+<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
