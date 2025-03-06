@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝American mathematician Marion Tinsley played checkers for 45 years and lost only 7 games. He once beat a computer program, and later analysis showed that Tinsley had played the only possible winning strategy from 64 moves out.❞</i>
+<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
