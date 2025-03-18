@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
+<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
