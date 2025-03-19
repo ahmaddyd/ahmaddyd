@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
+<i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
