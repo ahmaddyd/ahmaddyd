@@ -30,7 +30,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
+<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
