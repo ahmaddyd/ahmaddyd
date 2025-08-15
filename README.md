@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
