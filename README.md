@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝An Apple laptop stinks. One 2001 iBook model used a glue that, after 12-18 months, may begin to smell like human body odor. It is so strong that repairs are difficult because the smell makes people nauseous.❞</i>
+<i>❝“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
