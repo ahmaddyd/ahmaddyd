@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
+<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
