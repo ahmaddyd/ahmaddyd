@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.❞</i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
