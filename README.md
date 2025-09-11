@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
+<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
