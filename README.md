@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
+<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
