@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first microprocessor created by Intel was the It was designed for a calculator, and in that time nobody imagined where it would lead.❞</i>
+<i>❝The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
