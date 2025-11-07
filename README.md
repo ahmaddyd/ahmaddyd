@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
+<i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
