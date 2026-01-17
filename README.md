@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
+<i>❝“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
