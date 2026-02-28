@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
+<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
