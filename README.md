@@ -11,7 +11,7 @@
 <p align="center">
 <b>Automation Quote🎭</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
+<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- Table -->
